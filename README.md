@@ -1,6 +1,6 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
-<!--
+
 **Rom4ke/rom4ke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Header]()] 
+
+## I'm beginner Automation QA
+
+## Languages and Tools
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java) ![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=for-the-badge&logo=JUnit5) ![Selenide](https://img.shields.io/badge/-Selenide-333333?style=for-the-badge&logo=Selenide) ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=Postman) ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=Postman) 
