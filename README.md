@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header]()] 
-
 ## I'm beginner Automation QA
 
 ## Languages and Tools
