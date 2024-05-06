@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm beginner Automation QA
+## I'm Automation QA
 
 ## Languages and Tools
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java) ![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=for-the-badge&logo=JUnit5) ![Selenide](https://img.shields.io/badge/-Selenide-333333?style=for-the-badge&logo=Selenide) ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=Postman) 
+![C#] ![Selenium] ![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java) ![JUnit5](https://img.shields.io/badge/-JUnit5-333333?style=for-the-badge&logo=JUnit5) ![Selenide](https://img.shields.io/badge/-Selenide-333333?style=for-the-badge&logo=Selenide) ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=Postman) 
